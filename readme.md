@@ -35,6 +35,8 @@ In finance, an exchange rate is a measure between two currencies. At this rate o
 
 In terms of modelling forecast methods, it is essential to understand features of exchange rates in order to develop decent models. First and foremost, exchange rates are sequenced data. The transactions executed one after another and with a timestamp, hence they produce time-series data. Besides the sequenced nature of them, their other notable feature is that they are nonlinear and nonstationary, meaning they are nondirectional and ever changing without presenting any regularity. 
 
+![](images/mdp.png)
+
 In terms of modelling time-series data, the literature suggests some statistical (or econometric) modelling methods such as (S)ARIMA, ETS (for univariate series), or VAR (for multivariate series) to be employed. In general, machine learning and more precisely deep learning applications are highly successful to map irregular data. Regarding this phenomenon, this project intends to compare some Deep Learning methods with literature suggested econometric methods. In this project, Box-Jenkins' ARIMA methodology will be used as a baseline model (acquired from the time-series forecasting literature), while MLP and CNN techniques will be getting employed for Deep Learning models. Lastly, I have chosen GBP/USD (British Sterling / US Dollar) rate to represent a financial time-series to this project.
 
 As a note, I should add this as well. Machine Learning methodologies offer Recurrent Neural Networks (RNN) and Long-Short Term Memory (LSTM) approaches for sequence to squence data analysis as well. Yet, with the given time constraints, I had to exclude these methods. I am hoping to further analyse them as a continuation study to this project in the near future.
