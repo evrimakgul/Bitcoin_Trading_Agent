@@ -174,7 +174,6 @@ The next is actually simple. Giving more time to the project and experimenting m
 As always, I would like to thank you for your interest to this project. I had some good challenges on the road and it was not easy to deal with them. I thank my instructor Christy Pearson so much for that reason. I cannot explain why but talking to her gives me all the soothing that I need, calms me down and puts me into the focused mind set to get the job done. I must thank to the coding community for sharing so much. There is always something I have to go check and the answer is always there to be found. Lastly, I would like to thank to sources of my references, as I used them vigorously.
 
 Thank you,
-
 All the Best
 
 
